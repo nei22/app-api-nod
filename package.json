@@ -1,5 +1,5 @@
 {
-  "name": "estudo_api_node",
+  "name": "app-api-nod",
   "version": "1.0.0",
   "main": "api/index.js",
   "scripts": {
